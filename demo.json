@@ -1,0 +1,22 @@
+{
+	"key1": "This is a string",
+	"key2": 3.14,
+	"key3": true,
+	"key4": {
+		"key4a": [1, 2, 3],
+		"key4b": [
+			{
+				"key4b1_1": false,
+				"key4b1_2": []
+			},
+			{
+				"key4b2_1": true,
+				"key4b2_2": []
+			}
+		]
+	},
+	"key5": {
+		"message": "This could be a message from an http response with a status 200",
+		"status": 200
+	}
+}
